@@ -10,7 +10,7 @@
     "deepmerge": "~0.2.7",
     "diff": "~2.2.0",
     "gulp-postcss": "^9.0.1",
-    "handsontable": "git://github.com/handsontable/handsontable.git#0.20.2",
+    "handsontable": "git@github.com:handsontable/handsontable.git#0.20.2",
     "ignore": "~2.2.7",
     "jquery-browserify": "~1.8.1",
     "js-base64": "~2.1.1",
